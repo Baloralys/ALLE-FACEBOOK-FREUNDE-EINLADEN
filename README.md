@@ -15,7 +15,7 @@ Es wird sich ein Fenster mit einem Eingabebereich öffnen. Bei Chrome Browser Lo
 ###### javascript:elms=document.getElementsByName("checkableitems[]");for (i=0;i<elms.length;i++){if (elms[i].type="checkbox" )elms[i].click()}
 
 5. Für Facebook-Seiten folgenden Code kopieren und einfügen. Danach auf Enter drücken:
-###### javascript:var inputs = document.getElementsByClassName('_3hqx'); for(var i=0; i<inputs.length;i++) { inputs[i].click() };
+###### javascript:var inputs = document.getElementsByClassName('_3hqu'); for(var i=0; i<inputs.length;i++) { inputs[i].click() };
 
 #### Hinweis: Achte auch nach dem kopieren und einfügen bitte darauf, dass "javascript" ebenfalls eingefügt wurde. Beim Internet Explorer Logo Internet Explorer wird der Code (bei älteren Versionen) außerdem erst mit einem Klick auf den kleinen grünen Pfeil rechts ausgeführt.
 
