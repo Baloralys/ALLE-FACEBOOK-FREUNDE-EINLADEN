@@ -18,12 +18,12 @@ Bei Google Chrome Browser und Internet Explorer muss man zusätzlich zuerst auf 
 
 ###### Für Veranstaltungen folgenden Code kopieren und einfügen. Danach auf Enter drücken:
 ```javascript
-javascript:elms=document.getElementsByName("checkableitems[]");for (i=0;i<elms.length;i++){if (elms[i].type="checkbox" )elms[i].click()}
+javascript:elms=document.getElementsByName("checkableitems[]");for (i=0;i<elms.length;i++){if (elms[i].type="checkbox" )elms[i].click()}; alert('Fertig, all deine Freunde wurden selektiert!');
 ```
 
 ###### Für Facebook-Seiten folgenden Code kopieren und einfügen. Danach auf Enter drücken:
 ```javascript
-javascript:var inputs = document.getElementsByClassName('_3hqu'); for(var i=0; i<inputs.length;i++) { inputs[i].click() };
+javascript:var inputs = document.getElementsByClassName('_3hqu'); for(var i=0; i<inputs.length;i++) { inputs[i].click() }; alert('Fertig, all deine Freunde wurden selektiert!');
 ```
 
 ***
