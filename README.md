@@ -9,7 +9,7 @@ Hier wird genau beschrieben, wie du alle eigenen Freunde auf Facebook zu einer V
 
 Tastenkombination  | Browser
 ------------- | -------------
-**STRG + SHIFT + J**  | Chrome Google Chrome
+**STRG + SHIFT + J**  | Google Chrome
 **STRG + SHIFT + K**  | Mozilla FireFox
 **F12**  | Internet Explorer
 
