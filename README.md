@@ -12,10 +12,14 @@ Hier wird genau beschrieben, wie du alle eigenen Freunde auf Facebook zu einer V
 Es wird sich ein Fenster mit einem Eingabebereich öffnen. Bei Chrome Browser Logo Google Chrome und Internet Explorer Logo Internet Explorer muss man zusätzlich zuerst auf CONSOLE klicken.
 
 4. Für Veranstaltungen folgenden Code kopieren und einfügen. Danach auf Enter drücken:
-`javascript:elms=document.getElementsByName("checkableitems[]");for (i=0;i<elms.length;i++){if (elms[i].type="checkbox" )elms[i].click()}`
+```javascript
+javascript:elms=document.getElementsByName("checkableitems[]");for (i=0;i<elms.length;i++){if (elms[i].type="checkbox" )elms[i].click()}
+```
 
 5. Für Facebook-Seiten folgenden Code kopieren und einfügen. Danach auf Enter drücken:
-`javascript:var inputs = document.getElementsByClassName('_3hqu'); for(var i=0; i<inputs.length;i++) { inputs[i].click() };`
+```javascript
+javascript:var inputs = document.getElementsByClassName('_3hqu'); for(var i=0; i<inputs.length;i++) { inputs[i].click() };
+```
 
 ***
 
