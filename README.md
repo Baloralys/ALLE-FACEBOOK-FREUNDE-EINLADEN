@@ -6,9 +6,13 @@ Hier wird genau beschrieben, wie du alle eigenen Freunde auf Facebook zu einer V
 2. Scrolle bis ganz nach unten, damit deine Freundesliste vollständig geladen wird, da sonst nicht alle Freunde eingeladen werden
 
 3. Drücke jetzt (gleichzeitig)
-**STRG + SHIFT + J** bei Chrome Browser Logo Google Chrome
-**STRG + SHIFT + K** bei FireFox Browser Logo Mozilla FireFox
-**F12** bei Internet Explorer Logo Internet Explorer
+
+Tastenkombination  | Browser
+------------- | -------------
+**STRG + SHIFT + J**  | Chrome Google Chrome
+**STRG + SHIFT + K**  | Mozilla FireFox
+**F12**  | Internet Explorer
+
 Es wird sich ein Fenster mit einem Eingabebereich öffnen. Bei Chrome Browser Logo Google Chrome und Internet Explorer Logo Internet Explorer muss man zusätzlich zuerst auf CONSOLE klicken.
 
 4. Für Veranstaltungen folgenden Code kopieren und einfügen. Danach auf Enter drücken:
