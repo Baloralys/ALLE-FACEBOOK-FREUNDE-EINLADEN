@@ -1,4 +1,5 @@
 # ALLE-FACEBOOK-FREUNDE-EINLADEN
+## letzter Check 25.02.2016
 Hier wird genau beschrieben, wie du alle eigenen Freunde auf Facebook zu einer Veranstaltung oder Facebook-Seite einladen kannst.
 
 1. Klicke bei Veranstaltungen auf EINLADEN > FREUNDE AUSWÄHLEN ODER bei Facebook-Seiten auf Alle anzeigen Freunde zur Facebook-Seite einladen
